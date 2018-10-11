@@ -43,15 +43,9 @@ public class InvoiceTester
       // item to the invoice
       JButton addButton = new JButton("Add");
       addButton.addActionListener(event ->
-         {
-        	 	
-            LineItem item = (LineItem) combo.getSelectedItem();
-            
-            		invoice.addItem(item);
-            		
-            		
-          
-           
+         {	 	
+            LineItem item = (LineItem) combo.getSelectedItem();      
+            		invoice.addItem(item);   
          });
       
       // Put the combo box and the add button into a panel
