@@ -1,4 +1,4 @@
-package quiz2;
+//package quiz2;
 
 import java.awt.*;
 import java.awt.event.*;
