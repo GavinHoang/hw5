@@ -1,4 +1,4 @@
-package quiz2;
+//package quiz2;
 
 /**
 This interface describes the tasks that an invoice
