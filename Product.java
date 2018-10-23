@@ -1,4 +1,4 @@
-package quiz2;
+//package quiz2;
 
 /**
 A product with a price and description.
