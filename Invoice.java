@@ -1,4 +1,4 @@
-package quiz2;
+//package quiz2;
 
 import java.util.*;
 import javax.swing.event.*;
