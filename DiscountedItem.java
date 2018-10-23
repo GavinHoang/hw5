@@ -1,4 +1,4 @@
-package quiz2;
+//package quiz2;
 
 /**
 A decorator for an item that applies a discount.
